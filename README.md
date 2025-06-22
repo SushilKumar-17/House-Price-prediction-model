@@ -10,14 +10,14 @@ A complete machine learning pipeline that predicts house prices in Bengaluru bas
 ---
 ## 📂 Folder Structure
 
-├── Assignment 5.ipynb # Jupyter Notebook with full analysis and modeling<br>
-├── app.py # Streamlit App for model prediction<br>
-├── Bengaluru_House_Data.csv # Original dataset<br>
-├── final_df.csv # Final cleaned & selected features<br>
-├── houseF_encoded.csv # One-hot encoded version (with location)<br>
-├── house_price_model.pkl # Trained model (pickle format)<br>
-├── model_columns.pkl # Column names used during training<br>
-├── .venv/ # Virtual environment (optional)<br>
+├── `Assignment 5.ipynb` *(Jupyter Notebook with full analysis and modeling)*<br>
+├── `app.py` *(Streamlit App for model prediction)*<br>
+├── `Bengaluru_House_Data.csv` *(Original dataset)*<br>
+├── `final_df.csv` *(Final cleaned & selected features)*<br>
+├── `houseF_encoded.csv` *(One-hot encoded version (with location))*<br>
+├── `house_price_model.pkl` *(Trained model (pickle format))*<br>
+├── `model_columns.pkl` *(Column names used during training)*<br>
+
 ---
 
 ## Exploratory Data Analysis (EDA)
