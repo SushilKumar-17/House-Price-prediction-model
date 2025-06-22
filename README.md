@@ -3,8 +3,8 @@
 
 A complete machine learning pipeline that predicts house prices in Bengaluru based on factors like size, location, square footage, number of bathrooms, etc. This project includes data cleaning, feature engineering, exploratory analysis, model training, and a Streamlit deployment.
 <div align="center">
-  <img src="assets/img (1).png" alt="App Demo" width="300"/>
-  <img src="assets/img (2).png" alt="App Demo" width="300"/>
+  <img src="assets/img (1).png" alt="App Demo" width="450"/>
+  <img src="assets/img (2).png" alt="App Demo" width="450"/>
 </div>
 
 ---
