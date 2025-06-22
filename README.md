@@ -8,6 +8,15 @@ A complete machine learning pipeline that predicts house prices in Bengaluru bas
 </div>
 
 ---
+## Live Demo
+
+You can interact with the deployed web application here:  
+👉 **[Bengaluru House Price Predictor – Streamlit App](https://house-price-prediction-model-bz7i52ayprspsulzyql22j.streamlit.app/)**
+
+This app allows users to input key house features and receive instant price predictions. It showcases the model in a user-friendly way and is deployed using Streamlit Cloud.
+
+
+---
 ## 📂 Folder Structure
 
 ├── `Assignment 5.ipynb` *(Jupyter Notebook with full analysis and modeling)*<br>
