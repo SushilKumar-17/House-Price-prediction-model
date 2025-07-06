@@ -2,6 +2,15 @@
 # Assignment 5: Bengaluru House Price Prediction 
 
 A complete machine learning pipeline that predicts house prices in Bengaluru based on factors like size, location, square footage, number of bathrooms, etc. This project includes data cleaning, feature engineering, exploratory analysis, model training, and a Streamlit deployment.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-0769AD?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+</p>
+
 <div align="center">
   <img src="assets/img (1).png" alt="App Demo" width="450"/>
   <img src="assets/img (2).png" alt="App Demo" width="450"/>
